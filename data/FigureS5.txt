@@ -1,0 +1,11 @@
+Species	average_rate
+homo_sapiens	0.00599993587843929
+pan_troglodytes	0.00643333012483973
+homo_sapiens-pan_troglodytes	0.00964451307907586
+pongo_abelii	0.0169150914905025
+homo_sapiens-pongo_abelii	0.0118650963737857
+papio_anubis	0.00709398619784091
+macaca_mulatta	0.00701159302706585
+papio_anubis-macaca_mulatta	0.0286384201857813
+homo_sapiens-papio_anubis	0.025175681765034
+callithrix_jacchus	0.0632052675833773
